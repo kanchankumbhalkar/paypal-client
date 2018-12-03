@@ -1,0 +1,5 @@
+By using PayPal Developer Portal,  add a PayPal checkout button to the checkout.html and redirect customer to complete.html upon successful PayPal payment. 
+You should code this using both PayPal server-side and client-side implementation in any of your preferred programming language.
+Reference : https://developer.paypal.com/docs/checkout/#
+You need to deploy your solution on the cloud using any free Cloud application platforms of your choice and share the url for testing this integration.  Please upload your source code to GitHub and share that link too. 
+
